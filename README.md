@@ -4,14 +4,19 @@ An interactive 3-page Power BI report analyzing **Electric Vehicle (EV) adoption
 
 ---
 
-## 🔗 Live Report
-👉 [View on Power BI Service](#) ← *Replace with your published Power BI link*
 
 ---
 
 ## 📸 Report Preview
 
-> *(Add screenshots of your dashboards here — see setup instructions below)*
+<img width="899" height="495" alt="image" src="https://github.com/user-attachments/assets/402115ad-3954-4ff7-a7b2-1e0943575ec8" />
+
+<img width="902" height="497" alt="image" src="https://github.com/user-attachments/assets/1b98a503-2286-4cc1-943a-3c6946877885" />
+
+<img width="900" height="490" alt="image" src="https://github.com/user-attachments/assets/a1d4c56e-bce9-4976-8c53-9ec781621013" />
+
+
+
 
 ---
 
@@ -106,9 +111,9 @@ To build a clean, recruiter-ready Power BI report that reveals how EV adoption h
 ├── 📊 Electric_Vehicle_Assignment.pbix   ← Power BI report file
 ├── 📄 README.md                           ← You are here
 └── 📁 screenshots/
-    ├── dashboard1_overview.png
-    ├── dashboard2_map.png
-    └── dashboard3_models.png
+    ├── Dashboard 1.png
+    ├── Dashboard 2.png
+    └── Dashboard 3.png
 ```
 
 ---
@@ -123,5 +128,5 @@ To build a clean, recruiter-ready Power BI report that reveals how EV adoption h
 
 ## 👤 Author
 
-**[Your Name]**
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourprofile)
+**[Anuj Mourya]**
+[LinkedIn](https://www.linkedin.com/in/anujmourya/) • [GitHub](https://github.com/mouryaanuj139)
